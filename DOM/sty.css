@@ -1,0 +1,17 @@
+#title{
+    background:linear-gradient(to right,green,blue);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+body{
+    background-image: linear-gradient(to right, red,yellow,blue,green);
+}
+.btn{
+    color: red;
+}
+.invisible{
+    visibility: hidden;
+}
+.huge{
+    font-size: 10rem;
+}
